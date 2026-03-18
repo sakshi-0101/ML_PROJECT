@@ -7,3 +7,4 @@
 [ 2026-03-18 15:19:43,201 ] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2026 15:19:43] "GET / HTTP/1.1" 200 -
 [ 2026-03-18 15:20:00,206 ] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2026 15:20:00] "GET /predictdata HTTP/1.1" 200 -
 [ 2026-03-18 15:20:31,336 ] 97 werkzeug - INFO - 127.0.0.1 - - [18/Mar/2026 15:20:31] "POST /predictdata HTTP/1.1" 200 -
+[ 2026-03-18 15:26:05,895 ] 97 werkzeug - INFO -  * Detected change in 'D:\\MLproject\\application.py', reloading
